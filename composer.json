@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Application\\": "Application/"
+    }
+  },
+  "require": {
+    "thingengineer/mysqli-database-class": "dev-master"
+  }
+}
